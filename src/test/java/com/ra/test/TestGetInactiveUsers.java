@@ -34,7 +34,7 @@ public class TestGetInactiveUsers {
         Assert.assertTrue(responseValues.contains("inactive"));
         System.out.println("Status validated successfully");
         //************Program ended successfully************
-        System.out.println("Program ended successfully");
+        System.out.println("Program ended successfully!");
 
 
     }
